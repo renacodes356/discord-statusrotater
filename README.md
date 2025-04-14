@@ -1,3 +1,10 @@
+# Credits
+
+**Credits to @ColinShark for the orginal idea**
+This is just a updated version of his script with some updates like using a ``.env`` and a updated version of the api
+
+---
+
 # Discord Custom Status Animation
 
 Animate your custom status
