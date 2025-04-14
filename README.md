@@ -25,8 +25,11 @@ Animate your custom status
 5. Rename `config.json.example` to `config.json` and adjust it - [Read More](#Config)
 6. Enter `node index.js`
 
-# Config
+# ENV
 - token `String`: Enter your secret discord token **NEVER SHARE THIS WITH ANYONE** - [How to get your token](#how-to-get-your-token)
+
+
+# Config
 - animation `Array`:
 	- text `String`: Text to display as custom status
 	- emojiID `String|null`: Emoji ID of the emoji you want to display or `null` for nothing - [How to get your emojiID](#how-to-get-your-emojiid)
