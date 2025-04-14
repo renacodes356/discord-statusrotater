@@ -1,6 +1,6 @@
 {
   "name": "discord-customstatus",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Animate your custom status",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,11 @@
   "author": "BeepFelix",
   "license": "MIT",
   "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "figlet": "^1.8.1",
     "request": "^2.88.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BeepFelix/discord-customstatus.git"
