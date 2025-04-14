@@ -1,6 +1,6 @@
 # Credits
 
-Credits to @ColinShark for the orginal idea
+Credits to [@Colinshark]([https://nodejs.org/en/](https://github.com/ColinShark)) for the orginal idea
 This is just a updated version of his script with some updates like using a ``.env`` and a updated version of the api
 
 ---
