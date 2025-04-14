@@ -1,5 +1,5 @@
 {
-	"token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+	"token": "env",
 	"animation": [
 		{
 			"text": "H",
